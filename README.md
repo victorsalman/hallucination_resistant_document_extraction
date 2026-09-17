@@ -24,7 +24,7 @@ The raw JSON failures are preserved as a real result. They support the architect
 2. Use the language model for semantic extraction and evidence selection.
 3. Use deterministic software for JSON parsing, schema enforcement, exact evidence verification, and routing rules.
 4. Send ambiguous, conflicting, unreadable, or otherwise unresolved evidence to human review.
-![Case Study 2 visual 01](assets/Upwork%20Case%20Study%202%20visual%2001.png)
+![Evidence First Document Extraction Architecture](assets/Upwork%20Case%20Study%202%20visual%2001.png)
 
 ## Repository contents
 
