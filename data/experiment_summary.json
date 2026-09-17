@@ -1,0 +1,23 @@
+{
+  "development": {
+    "documents": 12,
+    "substantive_decisions_matched": "108/108",
+    "manually_traced_evidence": "98/98",
+    "raw_valid_json": "11/12",
+    "context": "controlled same conversation development run"
+  },
+  "holdout": {
+    "documents": 6,
+    "substantive_decisions_matched": "54/54",
+    "manually_traced_evidence": "49/49",
+    "raw_valid_json": "4/6",
+    "unsupported_values_observed": 0,
+    "silent_ocr_repairs_observed": 0,
+    "prompt_injection_induced_factual_changes_observed": 0
+  },
+  "limitations": [
+    "synthetic contracts",
+    "conversational model runs",
+    "not production or legal reliability evidence"
+  ]
+}
