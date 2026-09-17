@@ -4,6 +4,11 @@ Independent AI systems case study exploring evidence first contract extraction, 
 
 This repository documents a controlled portfolio experiment rather than a deployed product. The benchmark used synthetic contracts. The executions were conversational model runs rather than independent API tests.
 
+## Portfolio Visuals
+![Case Study 2 visual 01](assets/Upwork%20Case%20Study%202%20visual%2001.png)
+![Case Study 2 visual 02](assets/Upwork%20Case%20Study%202%20visual%2002.png)
+![Case Study 2 visual 03](assets/Upwork%20Case%20Study%202%20visual%2003.png)
+
 ## What was tested
 
 Eight contract fields were extracted with five evidence states: SUPPORTED, MISSING, AMBIGUOUS, CONFLICTING, and UNREADABLE.
